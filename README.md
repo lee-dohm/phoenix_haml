@@ -15,3 +15,5 @@
   config :phoenix, :template_engines,
     haml: PhoenixHaml.Engine
 ```
+
+  3. Add templates to your project with the extension `.html.haml`, e.g. (`app/templates/page/home.html.haml`).
